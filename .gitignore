@@ -1,0 +1,22 @@
+# PlatformIO build output
+.pio/
+lib/
+.pioenvs/
+.piolibdeps/
+
+# Editor / IDE
+.vscode/
+.idea/
+*.code-workspace
+
+# Build artifacts
+*.bin
+*.elf
+*.map
+*.hex
+compile_commands.json
+.sconsign.dblite
+
+# OS cruft
+.DS_Store
+Thumbs.db
